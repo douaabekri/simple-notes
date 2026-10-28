@@ -1,5 +1,5 @@
 
-# SimpleNotes API
+# SimpleNotes API (with titles)
 
 ## Run locally
 
