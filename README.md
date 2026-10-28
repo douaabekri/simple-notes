@@ -1,5 +1,5 @@
 
-# SimpleNotes API
+# SimpleNotes API — v1.0
 
 ## Run locally
 
