@@ -1,6 +1,5 @@
 
-# SimpleNotes API (with titles)
-
+# SimpleNotes API — v1.0 (with titles)
 ## Run locally
 
 1. Install Node.js 18+
